@@ -1,4 +1,6 @@
 # ACER-E5-575G-Hackintosh
+DISCLAIMER
+I currently don't use this laptop, as I gave to my mom a couple months ago.
 Files I used to successfully hackintosh my laptop
 
 
